@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aswathy!
 
-### MCA Student | Python Developer
+### MCA Student 
 
 Welcome to my GitHub profile!
 
